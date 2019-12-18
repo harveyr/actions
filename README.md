@@ -19,6 +19,18 @@ Action to help you publish a "deps" docker image—an image with your app's depe
 
 Note: At the moment, this action doesn't really do anything. Just playing around.
 
+### ESLint Action
+
+https://github.com/harveyr/gh-action-eslint
+
+Run ESLint and report GitHub annotations.
+
+### Flake8 Action
+
+https://github.com/harveyr/gh-action-flake8
+
+Run Flake8 and report GitHub annotations.
+
 ### Publish Action
 
 https://github.com/harveyr/gh-action-publish
