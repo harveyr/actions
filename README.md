@@ -15,7 +15,7 @@ Outputs a list of files that have changed in your branch compared to a base bran
 
 https://github.com/harveyr/gh-action-deps-image
 
-Action to help you publish a "deps" docker image—an image with your app's dependencies installed. You can use that image to layer your source code on top of. 
+Helps you publish a "deps" docker image—an image with your app's dependencies installed. You can use that image to layer your source code on top of. 
 
 Note: At the moment, this action doesn't really do anything. Just playing around.
 
@@ -31,11 +31,17 @@ https://github.com/harveyr/gh-action-flake8
 
 Run Flake8 and report GitHub annotations.
 
+### Prettier Action
+
+https://github.com/harveyr/gh-action-prettier
+
+Run Prettier and fail if it'd change anything.
+
 ### Publish Action
 
 https://github.com/harveyr/gh-action-publish
 
-Action to help you publish a release branch of your action.
+Helps you publish a release branch of your Github Action.
 
 ## Other Resources
 
